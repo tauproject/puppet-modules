@@ -43,3 +43,6 @@ class tau::packages::debian {
 		ensure => latest,
 	}
 }
+
+class tau::packages::darwin {
+}
